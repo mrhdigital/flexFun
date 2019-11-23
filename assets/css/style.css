@@ -66,6 +66,18 @@ html {
     font-size: 2em;
   }
 
+  .panel > *:first-child { transform: translateY(-100%); }
+  .panel.open-active > *:first-child { transform: translateY(0); }
+  .panel > *:last-child { transform: translateY(100%); }
+  .panel.open-active > *:last-child { transform: translateY(0); }
+
+
   .panel p:nth-child(2) {
     font-size: 4em;
   }
+
+  .panel.open {
+    flex: 5;
+    font-size: 40px;
+  }
+
