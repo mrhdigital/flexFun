@@ -7,7 +7,7 @@ CheckOut GBOMBS: 👍 coming soon!
 <p align="center">
   <img  src="https://github.com/mrhdigital/flexFun/blob/master/assets/images/cover.png">
 </p>
-![cover](https://github.com/mrhdigital/flexFun/blob/master/assets/images/cover.png)
+
 
 
 ### Technologies Used
