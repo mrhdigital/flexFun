@@ -75,14 +75,15 @@ html {
     font-size: 4em;
   } */
   .panel p:nth-child(2) {
-    font-size: 6em;
+    font-size: 30em;
     color: #f9f022;
+    height: .55em;
     background-color: #ff0000d6;
 }
 
   .panel.open {
     flex: 5;
-    font-size: 60px;
+    font-size: 40px;
     color: #f9f022;
     background-color: #ff0000d6;
 
