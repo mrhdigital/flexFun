@@ -77,11 +77,16 @@ html {
   .panel p:nth-child(2) {
     font-size: 6em;
     color: #f9f022;
+    background-color: #ff0000d6;
 }
 
   .panel.open {
     flex: 5;
-    font-size: 40px;
+    font-size: 60px;
+    color: #f9f022;
+    background-color: #ff0000d6;
+
+
   }
   @media only screen and (max-width: 600px) {
     .panel p {
