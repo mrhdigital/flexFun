@@ -71,9 +71,13 @@ html {
   .panel.open-active > *:last-child { transform: translateY(0); }
 
 
-  .panel p:nth-child(2) {
+  /* .panel p:nth-child(2) {
     font-size: 4em;
-  }
+  } */
+  .panel p:nth-child(2) {
+    font-size: 6em;
+    color: #f9f022;
+}
 
   .panel.open {
     flex: 5;
